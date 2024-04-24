@@ -21,3 +21,14 @@ My name is Michelle Orru. I am an undergraduate student at Midwestern State Univ
 ## Languages: 
 <img src= 'https://github.com/michelle083/michelle083/assets/100542045/5649217b-758e-4a73-90c6-22d384de9a99' alt= 'c++' height= '40'>
 <img src= 'https://github.com/michelle083/michelle083/assets/100542045/73f20251-3a4e-488f-8e76-ab658638599e' alt= 'python' height= '40'>
+<img src= 'https://github.com/michelle083/michelle083/assets/100542045/3a81a480-5c53-45bd-bc61-9566b1eff12e' alt= 'html' height= '40'>
+<img src= 'https://github.com/michelle083/michelle083/assets/100542045/c99b337f-79fd-4628-81e7-febc1333772e' alt= 'css' height= '40'>
+<img src= 'https://github.com/michelle083/michelle083/assets/100542045/439bf9a3-38a6-4399-8982-8d8af68995fb' alt= 'javascript' height= '40'>
+<img src= 'https://github.com/michelle083/michelle083/assets/100542045/72b8989f-1049-4bdb-8550-7fa3fd8baf87' alt= 'golang' height= '40'>
+<img src= 'https://github.com/michelle083/michelle083/assets/100542045/b0ce0966-c967-4d67-9c6a-122c7a5c2121' alt= 'assembly' height= '40'>
+<img src= '' alt= 'expo' height= '40'>
+<img src= '' alt= 'react' height= '40'>
+<img src= '' alt= 'react native' height= '40'>
+<img src= '' alt= 'flutter' height= '40'>
+<img src= '' alt= 'dart' height= '40'>
+<img src= '' alt= 'swift' height= '40'>
