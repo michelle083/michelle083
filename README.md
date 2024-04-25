@@ -26,9 +26,5 @@ My name is Michelle Orru. I am an undergraduate student at Midwestern State Univ
 <img src= 'https://github.com/michelle083/michelle083/assets/100542045/439bf9a3-38a6-4399-8982-8d8af68995fb' alt= 'javascript' height= '40'>
 <img src= 'https://github.com/michelle083/michelle083/assets/100542045/72b8989f-1049-4bdb-8550-7fa3fd8baf87' alt= 'golang' height= '40'>
 <img src= 'https://github.com/michelle083/michelle083/assets/100542045/b0ce0966-c967-4d67-9c6a-122c7a5c2121' alt= 'assembly' height= '40'>
-<img src= '' alt= 'expo' height= '40'>
-<img src= '' alt= 'react' height= '40'>
-<img src= '' alt= 'react native' height= '40'>
-<img src= '' alt= 'flutter' height= '40'>
-<img src= '' alt= 'dart' height= '40'>
-<img src= '' alt= 'swift' height= '40'>
+
+
