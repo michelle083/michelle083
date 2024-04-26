@@ -1,5 +1,5 @@
 ## Hello!👋
-My name is Michelle Orru. I am an undergraduate student at Midwestern State University about to graduate with a BS in Computer Science. I am very interested in mobile development and web development. 
+My name is Michelle Orru. I am an undergraduate student at Midwestern State University about to graduate with a BS in Computer Science. I am truly interested in mobile and web development. 
 
 
 - 🔭 I’m currently working on my Portfolio Website
